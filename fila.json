@@ -79,13 +79,6 @@
   "pronto_em": "2026-11-25T00:04-03:00"
  },
  {
-  "status": "reservado",
-  "postar_em": "2026-12-03T19:00:00-03:00",
-  "tema": "Como funciona o radar de velocidade",
-  "feito_por": "fabrica",
-  "reservado_em": "2026-11-25T02:47-03:00"
- },
- {
   "pasta": "janela-aviao",
   "slug": "janela-aviao",
   "titulo": "E se a janela do avião trincar em pleno voo?",
@@ -264,5 +257,17 @@
   "capa_url": "https://raw.githubusercontent.com/philippecjc/curioso-tecnico-midia/main/capas/diferencial.jpg",
   "feito_por": "fabrica",
   "pronto_em": "2026-11-25T04:12-03:00"
+ },
+ {
+  "pasta": "radar",
+  "slug": "radar",
+  "titulo": "Mito: é a câmera do radar que mede sua velocidade",
+  "status": "pronto",
+  "postar_em": "2026-12-03T19:00:00-03:00",
+  "legenda": "Em muitos radares fixos, quem mede a velocidade são sensores no asfalto, e a câmera só registra. (Outros tipos usam ondas ou laser: respeite o limite!)\nJá reparou nos cortes quadrados no asfalto? Comenta aí.\n\n#comofunciona #curiosidades #radar #transito #mitoouverdade #curiosotecnico",
+  "video_url": "https://raw.githubusercontent.com/philippecjc/curioso-tecnico-midia/main/videos/radar.mp4",
+  "capa_url": "https://raw.githubusercontent.com/philippecjc/curioso-tecnico-midia/main/capas/radar.jpg",
+  "feito_por": "fabrica",
+  "pronto_em": "2026-11-25T04:17-03:00"
  }
 ]
