@@ -80,13 +80,6 @@
  },
  {
   "status": "reservado",
-  "postar_em": "2026-11-27T19:00:00-03:00",
-  "tema": "Como funciona o analgésico",
-  "feito_por": "fabrica",
-  "reservado_em": "2026-11-25T02:46-03:00"
- },
- {
-  "status": "reservado",
   "postar_em": "2026-11-30T09:00:00-03:00",
   "tema": "Como funciona a caneta esferográfica",
   "feito_por": "fabrica",
@@ -224,5 +217,17 @@
   "capa_url": "https://raw.githubusercontent.com/philippecjc/curioso-tecnico-midia/main/capas/navio.jpg",
   "feito_por": "fabrica",
   "pronto_em": "2026-11-25T03:31-03:00"
+ },
+ {
+  "pasta": "analgesico",
+  "slug": "analgesico",
+  "titulo": "Como o remédio sabe onde dói?",
+  "status": "pronto",
+  "postar_em": "2026-11-27T19:00:00-03:00",
+  "legenda": "Pedido de seguidor: como o remédio sabe onde dói? Ele não sabe! (Vale para muitos analgésicos comuns; existem outros tipos. Dúvida sobre remédio é com médico ou farmacêutico.)\nQual pergunta você quer ver aqui? Comenta aí.\n\n#comofunciona #curiosidades #ciencia #corpohumano #biologia #curiosotecnico",
+  "video_url": "https://raw.githubusercontent.com/philippecjc/curioso-tecnico-midia/main/videos/analgesico.mp4",
+  "capa_url": "https://raw.githubusercontent.com/philippecjc/curioso-tecnico-midia/main/capas/analgesico.jpg",
+  "feito_por": "fabrica",
+  "pronto_em": "2026-11-25T03:38-03:00"
  }
 ]
