@@ -80,13 +80,6 @@
  },
  {
   "status": "reservado",
-  "postar_em": "2026-12-01T19:00:00-03:00",
-  "tema": "Como funciona a descarga do vaso sanitário",
-  "feito_por": "fabrica",
-  "reservado_em": "2026-11-25T02:47-03:00"
- },
- {
-  "status": "reservado",
   "postar_em": "2026-12-02T09:00:00-03:00",
   "tema": "Como funciona o código de barras",
   "feito_por": "fabrica",
@@ -244,5 +237,17 @@
   "capa_url": "https://raw.githubusercontent.com/philippecjc/curioso-tecnico-midia/main/capas/controle-remoto.jpg",
   "feito_por": "fabrica",
   "pronto_em": "2026-11-25T03:43-03:00"
+ },
+ {
+  "pasta": "descarga",
+  "slug": "descarga",
+  "titulo": "Você dá descarga com a tampa aberta?",
+  "status": "pronto",
+  "postar_em": "2026-12-01T19:00:00-03:00",
+  "legenda": "A descarga lança gotinhas no ar (um estudo filmou com laser). Tampa fechada ajuda a segurar o jato, mas a limpeza é o que mais conta.\nTime tampa aberta ou fechada? Comenta aí.\n\n#comofunciona #curiosidades #banheiro #higiene #ciencia #curiosotecnico",
+  "video_url": "https://raw.githubusercontent.com/philippecjc/curioso-tecnico-midia/main/videos/descarga.mp4",
+  "capa_url": "https://raw.githubusercontent.com/philippecjc/curioso-tecnico-midia/main/capas/descarga.jpg",
+  "feito_por": "fabrica",
+  "pronto_em": "2026-11-25T04:00-03:00"
  }
 ]
