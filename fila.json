@@ -271,13 +271,6 @@
   "pronto_em": "2026-11-25T04:17-03:00"
  },
  {
-  "status": "reservado",
-  "postar_em": "2026-11-25T12:00:00-03:00",
-  "tema": "Como funciona o ar-condicionado",
-  "feito_por": "fabrica",
-  "reservado_em": "2026-11-25T09:53-03:00"
- },
- {
   "pasta": "helicoptero-sem-motor",
   "slug": "helicoptero-sem-motor",
   "titulo": "E se o motor do helicóptero apagar no ar?",
@@ -288,5 +281,17 @@
   "capa_url": "https://raw.githubusercontent.com/philippecjc/curioso-tecnico-midia/main/capas/helicoptero-sem-motor.jpg",
   "feito_por": "fabrica",
   "pronto_em": "2026-11-25T10:11-03:00"
+ },
+ {
+  "pasta": "ar-condicionado-16",
+  "slug": "ar-condicionado-16",
+  "titulo": "Ar-condicionado no 16 gela mais rápido?",
+  "status": "pronto",
+  "postar_em": "2026-11-25T12:00:00-03:00",
+  "legenda": "Ar no 16 NÃO gela mais rápido. O compressor já está no máximo, o número só diz quando ele para.\nVocê deixa no 16? Manda pra quem briga pelo controle do ar 😅 Qual aparelho a gente explica depois?\n\n#comofunciona #arcondicionado #curiosidades #mitoouverdade #ciencia #curiosotecnico",
+  "video_url": "https://raw.githubusercontent.com/philippecjc/curioso-tecnico-midia/main/videos/ar-condicionado-16.mp4",
+  "capa_url": "https://raw.githubusercontent.com/philippecjc/curioso-tecnico-midia/main/capas/ar-condicionado-16.jpg",
+  "feito_por": "fabrica",
+  "pronto_em": "2026-11-25T10:13-03:00"
  }
 ]
