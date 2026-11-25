@@ -87,13 +87,6 @@
  },
  {
   "status": "reservado",
-  "postar_em": "2026-12-01T09:00:00-03:00",
-  "tema": "Como funciona o airbag",
-  "feito_por": "fabrica",
-  "reservado_em": "2026-11-25T02:47-03:00"
- },
- {
-  "status": "reservado",
   "postar_em": "2026-12-01T19:00:00-03:00",
   "tema": "Como funciona a descarga do vaso sanitário",
   "feito_por": "fabrica",
@@ -234,5 +227,17 @@
   "capa_url": "https://raw.githubusercontent.com/philippecjc/curioso-tecnico-midia/main/capas/caneta.jpg",
   "feito_por": "fabrica",
   "pronto_em": "2026-11-25T03:39-03:00"
+ },
+ {
+  "pasta": "airbag",
+  "slug": "airbag",
+  "titulo": "Parte 3: nunca ande com o pé no painel",
+  "status": "pronto",
+  "postar_em": "2026-12-01T09:00:00-03:00",
+  "legenda": "Parte 3 de 3 ⚠️ Pé no painel parece confortável, mas numa batida o airbag arremessa as pernas contra o corpo.\nManda pra quem anda assim no carona. Você já fez isso?\n\n#comofunciona #curiosidades #carro #airbag #seguranca #curiosotecnico",
+  "video_url": "https://raw.githubusercontent.com/philippecjc/curioso-tecnico-midia/main/videos/airbag.mp4",
+  "capa_url": "https://raw.githubusercontent.com/philippecjc/curioso-tecnico-midia/main/capas/airbag.jpg",
+  "feito_por": "fabrica",
+  "pronto_em": "2026-11-25T03:41-03:00"
  }
 ]
