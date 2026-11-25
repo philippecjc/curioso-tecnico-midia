@@ -80,13 +80,6 @@
  },
  {
   "status": "reservado",
-  "postar_em": "2026-11-26T09:00:00-03:00",
-  "tema": "Como funciona a janela do avião",
-  "feito_por": "fabrica",
-  "reservado_em": "2026-11-25T02:45-03:00"
- },
- {
-  "status": "reservado",
   "postar_em": "2026-11-26T19:00:00-03:00",
   "tema": "Como funciona a panela de pressão",
   "feito_por": "fabrica",
@@ -189,5 +182,17 @@
   "tema": "Como funciona o radar de velocidade",
   "feito_por": "fabrica",
   "reservado_em": "2026-11-25T02:47-03:00"
+ },
+ {
+  "pasta": "janela-aviao",
+  "slug": "janela-aviao",
+  "titulo": "E se a janela do avião trincar em pleno voo?",
+  "status": "pronto",
+  "postar_em": "2026-11-26T09:00:00-03:00",
+  "legenda": "O furinho da janela do avião não é defeito: ele deixa a camada de fora fazer a força e poupa a reserva.\nVocê já tinha reparado? Comenta aí qual detalhe do avião a gente explica.\n\n#comofunciona #curiosidades #aviao #aviacao #engenharia #curiosotecnico",
+  "video_url": "https://raw.githubusercontent.com/philippecjc/curioso-tecnico-midia/main/videos/janela-aviao.mp4",
+  "capa_url": "https://raw.githubusercontent.com/philippecjc/curioso-tecnico-midia/main/capas/janela-aviao.jpg",
+  "feito_por": "fabrica",
+  "pronto_em": "2026-11-25T03:03-03:00"
  }
 ]
