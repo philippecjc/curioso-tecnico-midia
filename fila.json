@@ -80,13 +80,6 @@
  },
  {
   "status": "reservado",
-  "postar_em": "2026-11-27T09:00:00-03:00",
-  "tema": "Como funciona o motor do carro",
-  "feito_por": "fabrica",
-  "reservado_em": "2026-11-25T02:46-03:00"
- },
- {
-  "status": "reservado",
   "postar_em": "2026-11-27T19:00:00-03:00",
   "tema": "Como funciona o analgésico",
   "feito_por": "fabrica",
@@ -199,5 +192,17 @@
   "capa_url": "https://raw.githubusercontent.com/philippecjc/curioso-tecnico-midia/main/capas/panela-de-pressao.jpg",
   "feito_por": "fabrica",
   "pronto_em": "2026-11-25T03:04-03:00"
+ },
+ {
+  "pasta": "motor-do-carro",
+  "slug": "motor-do-carro",
+  "titulo": "Parte 1: cem explosões por segundo no motor",
+  "status": "pronto",
+  "postar_em": "2026-11-27T09:00:00-03:00",
+  "legenda": "Parte 1 de 3 🚗 Com o carro andando, o motor pode fazer cerca de cem explosões por segundo (4 cilindros a 3 mil giros).\nMuitos motores flex puxam o combustível junto com o ar; alguns injetam direto no cilindro. Você sabia?\n\n#comofunciona #curiosidades #carro #motor #mecanica #curiosotecnico",
+  "video_url": "https://raw.githubusercontent.com/philippecjc/curioso-tecnico-midia/main/videos/motor-do-carro.mp4",
+  "capa_url": "https://raw.githubusercontent.com/philippecjc/curioso-tecnico-midia/main/capas/motor-do-carro.jpg",
+  "feito_por": "fabrica",
+  "pronto_em": "2026-11-25T03:15-03:00"
  }
 ]
