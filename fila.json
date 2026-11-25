@@ -86,12 +86,5 @@
   "capa_url": "https://raw.githubusercontent.com/philippecjc/curioso-tecnico-midia/main/capas/teste-fabrica.jpg",
   "feito_por": "fabrica",
   "pronto_em": "2026-11-25T00:09-03:00"
- },
- {
-  "status": "reservado",
-  "postar_em": "2026-12-31T22:00:00-03:00",
-  "tema": "",
-  "feito_por": "fabrica",
-  "reservado_em": "2026-11-25T00:10-03:00"
  }
 ]
