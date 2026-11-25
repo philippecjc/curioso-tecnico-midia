@@ -80,13 +80,6 @@
  },
  {
   "status": "reservado",
-  "postar_em": "2026-12-02T19:00:00-03:00",
-  "tema": "Como funciona a escada rolante",
-  "feito_por": "fabrica",
-  "reservado_em": "2026-11-25T02:47-03:00"
- },
- {
-  "status": "reservado",
   "postar_em": "2026-12-03T09:00:00-03:00",
   "tema": "Como funciona o diferencial do carro",
   "feito_por": "fabrica",
@@ -254,5 +247,17 @@
   "capa_url": "https://raw.githubusercontent.com/philippecjc/curioso-tecnico-midia/main/capas/codigo-de-barras.jpg",
   "feito_por": "fabrica",
   "pronto_em": "2026-11-25T04:02-03:00"
+ },
+ {
+  "pasta": "escada-rolante",
+  "slug": "escada-rolante",
+  "titulo": "3 coisas na escada rolante que te protegem",
+  "status": "pronto",
+  "postar_em": "2026-12-02T19:00:00-03:00",
+  "legenda": "A escova da escada rolante não é engraxate! Ela existe pra afastar seu pé do vão.\nVocê usava a escova pra limpar o tênis? Confessa aí.\n\n#comofunciona #curiosidades #escadarolante #seguranca #engenharia #curiosotecnico",
+  "video_url": "https://raw.githubusercontent.com/philippecjc/curioso-tecnico-midia/main/videos/escada-rolante.mp4",
+  "capa_url": "https://raw.githubusercontent.com/philippecjc/curioso-tecnico-midia/main/capas/escada-rolante.jpg",
+  "feito_por": "fabrica",
+  "pronto_em": "2026-11-25T04:10-03:00"
  }
 ]
