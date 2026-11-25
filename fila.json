@@ -80,13 +80,6 @@
  },
  {
   "status": "reservado",
-  "postar_em": "2026-12-03T09:00:00-03:00",
-  "tema": "Como funciona o diferencial do carro",
-  "feito_por": "fabrica",
-  "reservado_em": "2026-11-25T02:47-03:00"
- },
- {
-  "status": "reservado",
   "postar_em": "2026-12-03T19:00:00-03:00",
   "tema": "Como funciona o radar de velocidade",
   "feito_por": "fabrica",
@@ -259,5 +252,17 @@
   "capa_url": "https://raw.githubusercontent.com/philippecjc/curioso-tecnico-midia/main/capas/escada-rolante.jpg",
   "feito_por": "fabrica",
   "pronto_em": "2026-11-25T04:10-03:00"
+ },
+ {
+  "pasta": "diferencial",
+  "slug": "diferencial",
+  "titulo": "Na curva, as rodas do carro não andam igual",
+  "status": "pronto",
+  "postar_em": "2026-12-03T09:00:00-03:00",
+  "legenda": "Na curva, a roda de fora anda mais que a de dentro. Quem resolve isso é o diferencial.\nVocê sabia que essa peça existia? Comenta aí.\n\n#comofunciona #curiosidades #carro #mecanica #engenharia #curiosotecnico",
+  "video_url": "https://raw.githubusercontent.com/philippecjc/curioso-tecnico-midia/main/videos/diferencial.mp4",
+  "capa_url": "https://raw.githubusercontent.com/philippecjc/curioso-tecnico-midia/main/capas/diferencial.jpg",
+  "feito_por": "fabrica",
+  "pronto_em": "2026-11-25T04:12-03:00"
  }
 ]
