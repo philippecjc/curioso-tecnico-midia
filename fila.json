@@ -87,13 +87,6 @@
  },
  {
   "status": "reservado",
-  "postar_em": "2026-11-28T19:00:00-03:00",
-  "tema": "Como funciona a caixa-preta do avião",
-  "feito_por": "fabrica",
-  "reservado_em": "2026-11-25T02:46-03:00"
- },
- {
-  "status": "reservado",
   "postar_em": "2026-11-29T09:00:00-03:00",
   "tema": "Como funciona o freio do carro",
   "feito_por": "fabrica",
@@ -209,5 +202,17 @@
   "capa_url": "https://raw.githubusercontent.com/philippecjc/curioso-tecnico-midia/main/capas/ziper.jpg",
   "feito_por": "fabrica",
   "pronto_em": "2026-11-25T03:16-03:00"
+ },
+ {
+  "pasta": "caixa-preta",
+  "slug": "caixa-preta",
+  "titulo": "A caixa-preta não é preta",
+  "status": "pronto",
+  "postar_em": "2026-11-28T19:00:00-03:00",
+  "legenda": "A caixa-preta é laranja! E ainda apita debaixo d'água por pelo menos um mês (os modelos mais novos, por 90 dias).\nVocê achava que ela era preta? Comenta aí.\n\n#comofunciona #curiosidades #aviao #caixapreta #engenharia #curiosotecnico",
+  "video_url": "https://raw.githubusercontent.com/philippecjc/curioso-tecnico-midia/main/videos/caixa-preta.mp4",
+  "capa_url": "https://raw.githubusercontent.com/philippecjc/curioso-tecnico-midia/main/capas/caixa-preta.jpg",
+  "feito_por": "fabrica",
+  "pronto_em": "2026-11-25T03:17-03:00"
  }
 ]
