@@ -52,5 +52,16 @@
   "instagram": "https://www.instagram.com/reel/DgGj8DzBvYy/",
   "postado_em": "2026-11-23T20:29-03:00",
   "obs": "feito pela Fábrica"
+ },
+ {
+  "pasta": "2026-11-23_como-funciona-o-micro-ondas",
+  "slug": "como-funciona-o-micro-ondas",
+  "titulo": "Como o micro-ondas esquenta a comida?",
+  "status": "pronto",
+  "postar_em": "2026-11-25T09:00:00-03:00",
+  "legenda": "Por que o micro-ondas esquenta a comida e quase não esquenta o prato? E de onde vem aquela faísca do garfo?\nA resposta está nas moléculas de água e nos elétrons do metal.\nComenta aí qual aparelho você quer ver explicado no próximo vídeo!\n\n#curiosotecnico #microondas #ciencia #fisica #comofunciona #curiosidades #tecnologia",
+  "video_url": "https://raw.githubusercontent.com/philippecjc/curioso-tecnico-midia/main/videos/2026-11-23_como-funciona-o-micro-ondas.mp4",
+  "capa_url": "https://raw.githubusercontent.com/philippecjc/curioso-tecnico-midia/main/capas/2026-11-23_como-funciona-o-micro-ondas.jpg",
+  "pronto_em": "2026-11-25T00:03-03:00"
  }
 ]
