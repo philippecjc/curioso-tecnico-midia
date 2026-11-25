@@ -87,13 +87,6 @@
  },
  {
   "status": "reservado",
-  "postar_em": "2026-11-28T09:00:00-03:00",
-  "tema": "Como funciona o zíper",
-  "feito_por": "fabrica",
-  "reservado_em": "2026-11-25T02:46-03:00"
- },
- {
-  "status": "reservado",
   "postar_em": "2026-11-28T19:00:00-03:00",
   "tema": "Como funciona a caixa-preta do avião",
   "feito_por": "fabrica",
@@ -204,5 +197,17 @@
   "capa_url": "https://raw.githubusercontent.com/philippecjc/curioso-tecnico-midia/main/capas/motor-do-carro.jpg",
   "feito_por": "fabrica",
   "pronto_em": "2026-11-25T03:15-03:00"
+ },
+ {
+  "pasta": "ziper",
+  "slug": "ziper",
+  "titulo": "Seu zíper abre sozinho? Olha a lingueta",
+  "status": "pronto",
+  "postar_em": "2026-11-28T09:00:00-03:00",
+  "legenda": "Zíper que abre sozinho? Em muitos modelos, é só deixar a lingueta deitada. (Nem todo zíper tem essa trava.)\nManda pra quem vive com o zíper aberto 😅 Você sabia?\n\n#comofunciona #curiosidades #ziper #dica #invencoes #curiosotecnico",
+  "video_url": "https://raw.githubusercontent.com/philippecjc/curioso-tecnico-midia/main/videos/ziper.mp4",
+  "capa_url": "https://raw.githubusercontent.com/philippecjc/curioso-tecnico-midia/main/capas/ziper.jpg",
+  "feito_por": "fabrica",
+  "pronto_em": "2026-11-25T03:16-03:00"
  }
 ]
