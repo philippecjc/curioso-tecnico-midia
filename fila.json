@@ -80,13 +80,6 @@
  },
  {
   "status": "reservado",
-  "postar_em": "2026-11-26T19:00:00-03:00",
-  "tema": "Como funciona a panela de pressão",
-  "feito_por": "fabrica",
-  "reservado_em": "2026-11-25T02:46-03:00"
- },
- {
-  "status": "reservado",
   "postar_em": "2026-11-27T09:00:00-03:00",
   "tema": "Como funciona o motor do carro",
   "feito_por": "fabrica",
@@ -194,5 +187,17 @@
   "capa_url": "https://raw.githubusercontent.com/philippecjc/curioso-tecnico-midia/main/capas/janela-aviao.jpg",
   "feito_por": "fabrica",
   "pronto_em": "2026-11-25T03:03-03:00"
+ },
+ {
+  "pasta": "panela-de-pressao",
+  "slug": "panela-de-pressao",
+  "titulo": "Por que nunca forçar a tampa da panela de pressão",
+  "status": "pronto",
+  "postar_em": "2026-11-26T19:00:00-03:00",
+  "legenda": "Dentro da panela de pressão a água ferve perto de 120 °C. E nunca force a tampa antes do vapor sair!\nManda pra quem cozinha com pressa. Você tem medo de panela de pressão?\n\n#comofunciona #curiosidades #cozinha #paneladepressao #fisica #curiosotecnico",
+  "video_url": "https://raw.githubusercontent.com/philippecjc/curioso-tecnico-midia/main/videos/panela-de-pressao.mp4",
+  "capa_url": "https://raw.githubusercontent.com/philippecjc/curioso-tecnico-midia/main/capas/panela-de-pressao.jpg",
+  "feito_por": "fabrica",
+  "pronto_em": "2026-11-25T03:04-03:00"
  }
 ]
