@@ -278,10 +278,15 @@
   "reservado_em": "2026-11-25T09:53-03:00"
  },
  {
-  "status": "reservado",
+  "pasta": "helicoptero-sem-motor",
+  "slug": "helicoptero-sem-motor",
+  "titulo": "E se o motor do helicóptero apagar no ar?",
+  "status": "pronto",
   "postar_em": "2026-11-25T18:00:00-03:00",
-  "tema": "Como funciona o helicóptero",
+  "legenda": "Motor do helicóptero apagou? Ele NÃO cai feito pedra: o vento gira as pás e o piloto pousa assim.\nVocê voaria de helicóptero? Manda pra quem tem medo de voar. Qual máquina a gente explica depois?\n\n#comofunciona #helicoptero #aviacao #curiosidades #engenharia #curiosotecnico",
+  "video_url": "https://raw.githubusercontent.com/philippecjc/curioso-tecnico-midia/main/videos/helicoptero-sem-motor.mp4",
+  "capa_url": "https://raw.githubusercontent.com/philippecjc/curioso-tecnico-midia/main/capas/helicoptero-sem-motor.jpg",
   "feito_por": "fabrica",
-  "reservado_em": "2026-11-25T09:55-03:00"
+  "pronto_em": "2026-11-25T10:11-03:00"
  }
 ]
